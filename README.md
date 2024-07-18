@@ -1,4 +1,10 @@
-# Detecting Stress From Social Media Posts
+# Improving Minority Stress Detection with Emotions
+
+This github repository is for the following paper:
+
+>Jonathan Ivey and Susan Gauch. 2024. [Improving Minority Stress Detection with Emotions](https://www.thinkmind.org/articles/eknow_2024_1_60_60023.pdf). *In The Sixteenth International
+Conference on Information, Process, and Knowledge Management, eKNOW24*.
+
 
 ## Environment
 This project has the following dependencies:
